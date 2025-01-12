@@ -4817,9 +4817,9 @@ ul.skill-items li h5 {
 	color: #cccccc;
 }
 
-ul.skill-items i.fa-laravel {
+/* ul.skill-items i.fa-laravel {
 	background: #fb503b;
-}
+} */
 
 ul.skill-items i.fa-react {
 	background: #61DBFB;
@@ -4827,6 +4827,30 @@ ul.skill-items i.fa-react {
 
 ul.skill-items i.fa-html5 {
 	background: #e34c26;
+}
+
+ul.skill-items i.fa-css3-alt {
+	background: rgb(218, 158, 97);
+}
+
+ul.skill-items i.fa-js {
+	background: #f8026de2;
+}
+
+ul.skill-items i.fa-python {
+	background: cyan;
+}
+
+ul.skill-items i.fa-node-js {
+	background: yellowgreen;
+}
+
+ul.skill-items i.fa-mdb {
+	background: #e34c26;
+}
+
+ul.skill-items i.fa-bootstrap {
+	background: blueviolet;
 }
 
 ul.skill-items li:first-child {
